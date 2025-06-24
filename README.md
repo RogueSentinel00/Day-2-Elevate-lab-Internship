@@ -5,11 +5,14 @@
 📧 Email Details
 
 Subject: "Your PayPal account has been limited due to suspicious activity"
+
 From: service@paypa1.com
+
 To: victim@example.com
+
 Date: June 2025
 
- Email :
+Email :
 
 Dear Customer,
 
@@ -85,14 +88,7 @@ Mostly grammatically correct, but formal tone seems slightly robotic.
 Other phishing emails may have more obvious issues.
 
 
-Summarize Phishing Traits Found in the Email
-Trait	Status	Details
-Spoofed sender address	✅	paypa1.com mimics PayPal
-Header discrepancies	✅	SPF/DKIM fail, suspicious IP and return-path
-Suspicious link	✅	Fake PayPal site using a misleading domain
-Urgent/threatening tone	✅	“24 hours” and “permanent suspension” used as pressure
-Mismatched link	✅	Hover reveals it’s not going to paypal.com
-Spelling/grammar issues	⚠️	Slightly odd tone, no major grammar errors
+
 
 🧠 Conclusion
 This phishing email impersonates PayPal with:
