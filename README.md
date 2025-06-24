@@ -1,7 +1,9 @@
 # Day-2-Elevate-lab-Internship
 
 ✅ Real-World Phishing Email Example: "Your PayPal Account Is Limited"
+
 📧 Email Details
+
 Subject: "Your PayPal account has been limited due to suspicious activity"
 From: service@paypa1.com
 To: victim@example.com
